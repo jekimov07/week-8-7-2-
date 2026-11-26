@@ -59,6 +59,7 @@ header h1 {
     height: 550px;
     object-fit: cover;
     object-position: 0% 30%;
+    transition: opacity 0.5s ease-in-out;
 }
 
 .container hr {
